@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- DayFlow Habit Ring and Flow Checkmark within safe 66dp zone (centered at 54, 54) -->
+    <!-- Progress Ring -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54,28 A 26,26 0 1,1 28,54" />
+    <!-- Habit Flow Dots -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M 33,33 A 3.5,3.5 0 1,1 33,33.01 Z" />
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M 43,26 A 2.5,2.5 0 1,1 43,26.01 Z" />
+    <!-- Confident Checkmark -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 43,54 L 51,62 L 67,46" />
+</vector>

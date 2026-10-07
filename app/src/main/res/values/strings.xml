@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DayFlow</string>
+
+    <!-- General Common UI Actions & States -->
+    <string name="loading">Loading…</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="restore">Restore</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="archive">Archive</string>
+    <string name="confirm">Confirm</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Empty States -->
+    <string name="no_habits_found">No habits found</string>
+    <string name="no_habits_today">No habits scheduled for today</string>
+    <string name="no_active_goals">No active goals yet</string>
+    <string name="no_archived_habits">No archived habits</string>
+
+    <!-- Settings & Privacy -->
+    <string name="theme_title">Theme</string>
+    <string name="theme_system">System default</string>
+    <string name="theme_light">Light theme</string>
+    <string name="theme_dark">Dark theme</string>
+    <string name="week_start_title">Week starts on</string>
+    <string name="allow_reminders_title">Allow reminders</string>
+    <string name="allow_reminders_subtitle">Master notification toggle</string>
+    <string name="privacy_section_header">PRIVACY &amp; ABOUT</string>
+    <string name="privacy_title">100% Offline &amp; Private</string>
+    <string name="privacy_description">DayFlow does not use external accounts, cloud servers, advertising SDKs, or artificial intelligence APIs. All habit completions, streaks, and personal goals exist exclusively on this device. Tap to view full privacy details.</string>
+    <string name="privacy_dialog_title">Privacy Policy</string>
+    <string name="privacy_dialog_intro">DayFlow is built with complete privacy in mind:</string>
+    <string name="privacy_dialog_content">• 100% Offline: No internet connection is used or requested.\n• Local Storage: All habits, goals, and streak data remain securely on your device.\n• No Account Required: No sign-in, profile, or personal credentials.\n• No Ads or Tracking: Zero advertising SDKs, analytics, or third-party trackers.\n• No Cloud / AI APIs: Zero remote AI services, server-side tracking, or data transmission.\n• Full Control: Clear app storage or uninstall to permanently delete all local data.</string>
+    <string name="close">Close</string>
+    <string name="about_version">DayFlow v1.0</string>
+</resources>
